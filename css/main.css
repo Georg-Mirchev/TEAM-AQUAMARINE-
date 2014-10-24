@@ -1,20 +1,6 @@
-body {
-    padding: 10px 30px;
-}
-
-header {
-    height: 100px;
-}
-#main-nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-#main-nav li {
-    display: inline;
-}
-#main-nav li a {
-    padding: 0 10px;
+.navbar-brand {
+    font-family: Fairview,sans-serif;
+    font-size: 25px;
 }
 footer {
     text-align: center;
@@ -22,4 +8,17 @@ footer {
 section {
     display: block;
     clear: both;
+    margin: 5px 0 20px 0;
+}
+.listImgs {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+
+}
+p {
+    display: inline-block;
+    float: left;
+    width: 80%;
 }
