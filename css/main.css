@@ -7,7 +7,7 @@ section {
 }
 .navbar-brand {
     font-family: Fairview, sans-serif;
-    font-size: 30px!important;
+    font-size: 25px!important;
 }
 .listImgs {
     width: 200px;
@@ -15,4 +15,73 @@ section {
     float: left;
     margin-right: 20px;
     margin-bottom: 20px;
+}
+.jumbotron {
+    background: url(../images/softuni.png) no-repeat center center;
+    background-size: cover;	
+    height: 300px;
+    text-align: center;
+}
+.btn-primary {
+    background-color: rgba(39, 128, 227, 0.5)!important;
+    margin-top: 160px;
+}
+.panel-default {
+    background-color: #121212;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}
+ul.list-inline.center-block {
+    height: 30px;
+    margin-bottom: 0px;
+}
+#facebook {
+    background: url(../images/icons.png) 0 150px;
+    width: 30px;
+    height: 30px;
+}
+#facebook:hover {
+    background: url(../images/icons.png) 30px 150px;
+    width: 30px;
+    height: 30px;   
+}
+#google {
+    background: url(../images/icons.png) 0 110px;
+    width: 30px;
+    height: 30px;
+}
+#google:hover {
+    background: url(../images/icons.png) 30px 110px;
+    width: 30px;
+    height: 30px;
+}
+#twitter {
+    background: url(../images/icons.png) 0 70px;
+    width: 30px;
+    height: 30px;
+}
+#twitter:hover {
+    background: url(../images/icons.png) 30px 70px;
+    width: 30px;
+    height: 30px;
+}
+#tumblr {
+    background: url(../images/icons.png) 0 30px;
+    width: 30px;
+    height: 30px;
+}
+#tumblr:hover {
+    background: url(../images/icons.png) 30px 30px;
+    width: 30px;
+    height: 30px;
+}
+ul.list-inline.center-block {
+    height: 30px;
+    margin-bottom: 0px;
+}
+.list-inline>li {
+    padding-left: 0!important;
 }
