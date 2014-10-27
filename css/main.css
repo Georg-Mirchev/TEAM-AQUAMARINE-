@@ -85,3 +85,10 @@ ul.list-inline.center-block {
 .list-inline>li {
     padding-left: 0!important;
 }
+.main-imgs{
+    list-style: none;
+    display: inline-block;
+}
+#asdf{
+    display: inline-block;
+}
