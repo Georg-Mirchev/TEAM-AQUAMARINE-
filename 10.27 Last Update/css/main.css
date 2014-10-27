@@ -109,7 +109,7 @@ ul.list-inline.center-block {
 }
 section{
     display:block;
-    margin-left:25%;
+    text-align: center;
 }
 .funny-pictures > li{
     list-style-type:none;
