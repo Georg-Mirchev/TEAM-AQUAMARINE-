@@ -32,8 +32,8 @@ body {
     width: 35%;
 }
 .CoursesPictures {
-    margin: 0 10px 20px 10px;
-    width: 50%;
+	margin: 10px auto;
+	float: none;
 }
 footer {
     text-align: center;
@@ -103,19 +103,19 @@ ul.list-inline.center-block {
     background-color:rgba(39, 26, 26, 0.72);
     font-weight:400;
     color:#f6f0f0;
-    margin-left:25%;
+	margin: 10px auto;
     padding:10px;
-    padding-left:15px;
     border:1px double black;
     border-radius:5px;  
-    width:50%;
-    margin-bottom:20px;
+	float: none;
+	text-align: left;
 }
 .funny-pictures {
     text-align: center;
 }
 .funPics {
-    width: 50%;
-    margin-bottom: 20px;
+	margin: 10px auto;
+	display: block;
+	float: none;
 }
 
