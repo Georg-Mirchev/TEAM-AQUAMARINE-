@@ -111,17 +111,11 @@ ul.list-inline.center-block {
     width:50%;
     margin-bottom:20px;
 }
-section{
-    display:block;
+.funny-pictures {
     text-align: center;
 }
-.funny-pictures > li{
-    list-style-type:none;
-    text-decoration:none;
-    display:block;
-    padding: 10px;
-    margin: 0 0 2.5% 2.5%;
-    vertical-align: top;
-    box-sizing: border-box;
+.funPics {
+    width: 50%;
+    margin-bottom: 20px;
 }
 
