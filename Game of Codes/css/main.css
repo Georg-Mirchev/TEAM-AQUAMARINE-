@@ -3,7 +3,7 @@ body {
 }
 .navbar-brand {
     font-family: Fairview, sans-serif;
-    font-size: 25px!important;
+    font-size: 25px;
 }
 .jumbotron {
     background: url(../images/softuni2.png) no-repeat center center;
@@ -12,16 +12,16 @@ body {
     text-align: center;
 }
 .btn-primary {
-    background-color: rgba(255, 255, 255, 0.9)!important;
-    border-color: black!important;;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-color: black;;
     margin-top: 170px;
-    color: black!important;
-    font-weight: bold!important;
+    color: black;
+    font-weight: bold;
 }
 .btn-primary:hover {
-    background-color: rgba(255, 255, 255, 0.2)!important;
-    color: white!important;
-    border-color: white!important;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border-color: white;
     font-size: 23px;
 }
 .pictures {
@@ -50,8 +50,8 @@ ul.list-inline.center-block {
     height: 40px;
 }
 .list-inline>li {
-    padding-left: 0!important;
-    padding-right: 0!important;
+    padding-left: 0;
+    padding-right: 0;
 }
 #softUniGeorgeM {
     background: url(../images/softuniLogo2.png);
