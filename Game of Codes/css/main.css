@@ -35,13 +35,6 @@ body {
 	margin: 10px auto;
 	float: none;
 }
-footer {
-    text-align: center;
-}
-.footer {
-    background-color: #222;
-    color: white;
-}
 ul.list-inline.center-block {
     height: 30px;
 }
@@ -52,6 +45,38 @@ ul.list-inline.center-block {
 .list-inline>li {
     padding-left: 0;
     padding-right: 0;
+}
+.jokes-title{
+    font-size:40px;
+    text-align:center;
+    font-weight:400;
+    margin-bottom:20px;
+}
+.jokes{
+    background-color:rgba(39, 26, 26, 0.72);
+    font-weight:400;
+    color:#f6f0f0;
+	margin: 10px auto;
+    padding:10px;
+    border:1px double black;
+    border-radius:5px;  
+	float: none;
+	text-align: left;
+}
+.funny-pictures {
+    text-align: center;
+}
+.funPics {
+	margin: 10px auto;
+	display: block;
+	float: none;
+}
+footer {
+    text-align: center;
+}
+.footer {
+    background-color: #222;
+    color: white;
 }
 #softUniGeorgeM {
     background: url(../images/softuniLogo2.png);
@@ -93,29 +118,5 @@ ul.list-inline.center-block {
     background: url(../images/GeorgeB.png);
     background-size: 40px;
 }
-.jokes-title{
-    font-size:40px;
-    text-align:center;
-    font-weight:400;
-    margin-bottom:20px;
-}
-.jokes{
-    background-color:rgba(39, 26, 26, 0.72);
-    font-weight:400;
-    color:#f6f0f0;
-	margin: 10px auto;
-    padding:10px;
-    border:1px double black;
-    border-radius:5px;  
-	float: none;
-	text-align: left;
-}
-.funny-pictures {
-    text-align: center;
-}
-.funPics {
-	margin: 10px auto;
-	display: block;
-	float: none;
-}
+
 
